@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinButtonExample</string>
+
+    <string name="des">Lorem ipsum dolor sit amet, consectetur adipiscing elit Etiam efficitur ipsum in placerat paras.</string>
+</resources>
